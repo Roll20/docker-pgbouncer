@@ -1,0 +1,8 @@
+8f69bf878126686cc436c9440d20bf724e52092c:examples/docker-compose/README.md:database-key-roll20:7
+f2ac1c25df0bdf2958169057b6d1547c5d54914f:examples/docker-compose/README.md:database-key-roll20:7
+f2ac1c25df0bdf2958169057b6d1547c5d54914f:examples/docker-compose/docker-compose.yml:generic-api-key:9
+f2ac1c25df0bdf2958169057b6d1547c5d54914f:examples/docker-compose/docker-compose.yml:generic-api-key:17
+a1b4dec4f24e1379df597fd01a86951a6d959025:examples/README.md:generic-key-roll20:9
+a1b4dec4f24e1379df597fd01a86951a6d959025:examples/README.md:generic-key-roll20:19
+a1b4dec4f24e1379df597fd01a86951a6d959025:examples/kubernetes/multiuser/userlist.txt:generic-key-roll20:2
+a1b4dec4f24e1379df597fd01a86951a6d959025:examples/kubernetes/multiuser/userlist.txt:generic-key-roll20:3
